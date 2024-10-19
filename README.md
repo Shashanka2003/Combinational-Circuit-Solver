@@ -1,5 +1,5 @@
-# boolean-calculator
-# Boolean Algebra Calculator
+
+# Combinational Circuit Solver
 
 ## Overview
 This project involves designing a digital Boolean algebra calculator capable of performing various Boolean operations such as AND, OR, NOT, XOR, NAND, and NOR using Cadence software. The calculator accepts two binary inputs and a control signal to select the operation, and it outputs the corresponding result.
